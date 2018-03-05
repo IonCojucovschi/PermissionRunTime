@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{F21841D3-9505-4F48-8FA5-61E9910692CB}|Default">
+  <MonoDevelop.Ide.ItemProperties.PermissionTesting AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PermissionTesting/MainActivity.cs">
+    <Files>
+      <File FileName="PermissionTesting/MainApplication.cs" Line="1" Column="1" />
+      <File FileName="PermissionTesting/MainActivity.cs" Line="93" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/bss/Projects/PermissionTesting/PermissionTesting/MainActivity.cs" relfile="PermissionTesting/MainActivity.cs" line="63" column="18" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../Documents/Projects/ReadAbook/src/Core/ViewModels/Base/ProjectNavigationBaseViewModel.cs" line="280" offsetX="639" offsetY="5011" expression="viewModel" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+</Properties>
